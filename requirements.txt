@@ -1,0 +1,10 @@
+openai
+ipython
+wandb
+numpy
+matplotlib
+plotly
+pandas
+scipy
+scikit-learn
+python-dotenv
