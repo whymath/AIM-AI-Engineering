@@ -27,6 +27,15 @@ class VectorDatabase:
         k: int,
         distance_measure: Callable = cosine_similarity,
     ) -> List[Tuple[str, float]]:
+        """
+        Searches for the k closest vectors to the query vector using the specified distance measure.
+        Parameters:
+            query_vector (np.array): The query vector.
+            k (int): The number of closest vectors to return.
+            distance_measure (Callable): The distance measure to use.
+        Returns:
+            List[Tuple[str, float]]: A list of tuples containing the key and distance of the closest vectors.
+        """
         scores = [
             (key, distance_measure(query_vector, vector))
             for key, vector in self.vectors.items()
