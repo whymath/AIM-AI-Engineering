@@ -8,3 +8,4 @@ pandas
 scipy
 scikit-learn
 python-dotenv
+duckduckgo_search
