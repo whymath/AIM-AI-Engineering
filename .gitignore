@@ -1,4 +1,5 @@
 wandb/
+mistral7binstruct_summarize/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

@@ -1,6 +1,7 @@
+# W1D2
 openai
 ipython
-wandb
+# W2D1
 numpy
 matplotlib
 plotly
@@ -8,5 +9,28 @@ pandas
 scipy
 scikit-learn
 python-dotenv
-duckduckgo_search
 asyncio
+wandb
+duckduckgo_search
+# W3D1
+bitsandbytes
+datasets
+accelerate
+loralib
+peft
+transformers
+trl
+torch
+ipykernel
+ipywidgets
+jupyter
+# W3D2
+langchain
+langchain-core
+langchain-community
+langchain-openai
+qdrant-client
+tiktoken
+pymupdf
+grandalf
+# W4D1
