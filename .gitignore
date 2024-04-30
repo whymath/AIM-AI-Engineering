@@ -1,5 +1,6 @@
 wandb/
 mistral7binstruct_summarize/
+movie-index-qdrant-v0/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

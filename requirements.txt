@@ -34,3 +34,13 @@ tiktoken
 pymupdf
 grandalf
 # W4D1
+langchainhub
+ragas
+# W4D2
+llama-index
+wikipedia
+llama-index-readers-wikipedia
+llama-index-vector-stores-qdrant
+qdrant-client
+sqlalchemy
+llama-index-callbacks-wandb
