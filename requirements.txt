@@ -44,3 +44,8 @@ llama-index-vector-stores-qdrant
 qdrant-client
 sqlalchemy
 llama-index-callbacks-wandb
+#W5D1
+#W5D2
+requests
+arxiv
+faiss-cpu
