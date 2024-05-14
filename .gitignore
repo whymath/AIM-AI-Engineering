@@ -3,6 +3,7 @@ mistral7binstruct_summarize/
 artifacts/
 .vscode/
 bkp/
+DALM/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
